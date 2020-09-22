@@ -1,7 +1,0 @@
-#pond {
-display: flex;
-flex-flow: column-wrap-reverse
-flex-direction: column-reverse
-justify-content: center
-align-content: space-between
-}
