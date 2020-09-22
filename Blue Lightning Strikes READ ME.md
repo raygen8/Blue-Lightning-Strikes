@@ -1,1 +1,1 @@
-# Blue-Lightning-Strikes - WEB Development Portfolio
+# Blue-Lightning-Strikes - Web Development Portfolio
